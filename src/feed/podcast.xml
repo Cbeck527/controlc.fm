@@ -15,6 +15,7 @@
     <itunes:name>Chris Becker, Jeff Uthaichai</itunes:name>
     <itunes:email>feedback@controlc.fm</itunes:email>
   </itunes:owner>
+  <itunes:new-feed-url>http://www.controlc.dev/feed/podcast.xml</itunes:new-feed-url>
   <itunes:image href="{{ site.url }}{{ site.podcast_cover }}" />
   <itunes:category text="Technology">
     <itunes:category text="Tech News"/>
